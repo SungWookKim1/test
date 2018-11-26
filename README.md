@@ -1,8 +1,13 @@
 cd ~ #홈디렉토리로 이동
+
 mkdir github
+
 cd github
+
 git clone https://github.com/simon0210/hyperledger-study01.git
+
 cd hyperledger-study01/marbles
+
 npm install
 
 
