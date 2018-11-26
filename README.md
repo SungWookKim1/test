@@ -4,7 +4,7 @@ mkdir github
 
 cd github
 
-git clone https://github.com/simon0210/hyperledger-study01.git
+git clone https://github.com
 
 cd hyperledger-study01/marbles
 
