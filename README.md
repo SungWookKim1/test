@@ -20,8 +20,11 @@ docker logs -f orderer.example.com
 
 
 rm -rf ~/github/hyperledger-study01/network/ca/hfc-key-store/*
+
 cd ~/github/hyperledger-study01/marbles/scripts
+
 node install_chaincode.js
+
 node instantiate_chaincode.js
 
 gulp marbles_local
